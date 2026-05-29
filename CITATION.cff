@@ -1,0 +1,95 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "Objective Projection Dataset: The Bulut Doctrine Narrative Engineering Corpus"
+abstract: >-
+  An open dataset documenting the Objective Projection (Nesnel İzdüşüm)
+  methodology developed by Levent Bulut, founder of the Bulut Doctrine
+  and Narrative Engineering. The corpus encodes emotional states through
+  six measurable physical parameters (Luminous Decay, Thermal Gradient,
+  Acoustic Impedance, Kinetic Momentum, Atmospheric Pressure, Spatial
+  Geometry) rather than abstract emotion labels, designed to activate
+  the subcortical Low Road pathway (thalamus → amygdala) and produce
+  statistically convergent biophysical responses across cultural groups.
+  Includes a 500-scene annotated SFT corpus, a 60-scene variable-isolation
+  ablation set, 300 EN parallel reconstructions, multilingual parallel
+  scenes, identity SFT pairs, a 30-scene OPCT benchmark, genre and
+  scenario prompt templates, the pre-registered OPCT v2.0 protocol,
+  and bilingual rule-based detection pipelines for the Six Golden Rules.
+authors:
+  - family-names: Bulut
+    given-names: Levent
+    orcid: "https://orcid.org/0009-0007-7500-2261"
+    affiliation: "Independent Researcher"
+    email: "levent@leventbulut.com"
+    website: "https://leventbulut.com"
+version: "v7"
+date-released: "2026-05-28"
+license: CC-BY-NC-ND-4.0
+repository: "https://huggingface.co/datasets/leventbulut/objective-projection"
+url: "https://leventbulut.com"
+doi: "10.57967/hf/8960"
+identifiers:
+  - type: doi
+    value: "10.57967/hf/8960"
+    description: "Hugging Face dataset DOI (primary)"
+  - type: doi
+    value: "10.5281/zenodo.19511369"
+    description: "Zenodo archive DOI"
+  - type: doi
+    value: "10.5281/zenodo.18689179"
+    description: "The Bulut Doctrine: Architectural Framework (primary methodological reference)"
+  - type: doi
+    value: "10.5281/zenodo.18652451"
+    description: "Narrative Entropy (Sn) theory"
+  - type: doi
+    value: "10.5281/zenodo.20362901"
+    description: "Operationalizing Narrative Entropy (Sn) — Pilot Report"
+  - type: doi
+    value: "10.5281/zenodo.19415236"
+    description: "OPCT v2.0 protocol (pre-registered)"
+keywords:
+  - narrative-engineering
+  - objective-projection
+  - bulut-doctrine
+  - narrative-entropy
+  - computational-narratology
+  - neuroaesthetics
+  - affective-computing
+  - controllable-text-generation
+  - supervised-fine-tuning
+  - ablation-study
+  - bilingual-corpus
+  - turkish
+  - english
+  - low-road-pathway
+  - autonomic-response
+preferred-citation:
+  type: dataset
+  title: "Objective Projection Dataset: The Bulut Doctrine Narrative Engineering Corpus"
+  authors:
+    - family-names: Bulut
+      given-names: Levent
+      orcid: "https://orcid.org/0009-0007-7500-2261"
+  year: 2026
+  doi: "10.57967/hf/8960"
+  url: "https://huggingface.co/datasets/leventbulut/objective-projection"
+  publisher:
+    name: "Hugging Face Datasets"
+references:
+  - type: article
+    title: "Beyond the Cortical Label: A Physical Parameter Framework for Narrative Engineering"
+    authors:
+      - family-names: Bulut
+        given-names: Levent
+        orcid: "https://orcid.org/0009-0007-7500-2261"
+    year: 2026
+    doi: "10.5281/zenodo.18689179"
+  - type: article
+    title: "Operationalizing Narrative Entropy (Sn): A Two-Scene Registered Pilot Report and Pre-Validation Protocol"
+    authors:
+      - family-names: Bulut
+        given-names: Levent
+        orcid: "https://orcid.org/0009-0007-7500-2261"
+    year: 2026
+    doi: "10.5281/zenodo.20362901"
